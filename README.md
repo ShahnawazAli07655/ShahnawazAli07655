@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shah_Nawaz_Ali
+- 👀 I’m interested in Computational Physics
+- 🌱 I’m currently learning pymunk.
