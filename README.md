@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shah_Nawaz_Ali
 - 👀 I’m interested in Computational Physics
-- 🌱 Link to my YouTube  channel: https://www.youtube.com/@shahnawazali5799 .
+- 🌱 Programing languages known: C, C++, Python, BASIC, LOGO and Java.
