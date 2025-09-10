@@ -32,6 +32,8 @@
 [![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-FF4500?style=for-the-badge&logo=scipy&logoColor=white)](https://en.wikipedia.org/wiki/Scientific_computing)  
 [![Astrophysics](https://img.shields.io/badge/Astrophysics-800080?style=for-the-badge&logo=starship&logoColor=white)](https://en.wikipedia.org/wiki/Astrophysics)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahNawazAli07655&theme=react-dark)
+
 ---
 
 ## 📊 GitHub Stats & Activity  
