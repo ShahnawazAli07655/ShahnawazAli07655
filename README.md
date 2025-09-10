@@ -34,12 +34,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahNawazAli07655&show_icons=true&theme=tokyonight)](https://github.com/ShahNawazAli07655)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahNawazAli07655&layout=compact&theme=tokyonight)](https://github.com/ShahNawazAli07655)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahNawazAli07655&theme=tokyonight)](https://git.io/streak-stats)  
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShahNawazAli07655&theme=react-dark&hide_border=true)  
 
 ---
+
 ## 📫 Connect with Me  
 
-[![GitHub](https://github.com/ShahnawazAli07655)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahNawazAli07655)  
