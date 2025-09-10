@@ -40,7 +40,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahNawazAli07655&layout=compact&theme=tokyonight)](https://github.com/ShahNawazAli07655)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahNawazAli07655&theme=tokyonight)](https://git.io/streak-stats)  
 
-![GitHub Contribution Graph](https://github.com/ShahNawazAli07655.png?tab=overview&from=2025-01-01&to=2025-12-31)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahNawazAli07655&theme=tokyonight)
 
 ---
 
