@@ -41,7 +41,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahNawazAli07655&layout=compact&theme=tokyonight)](https://github.com/ShahNawazAli07655)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahNawazAli07655&theme=tokyonight)](https://git.io/streak-stats)  
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ShahNawazAli07655&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_title=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahNawazAli07655&theme=react-dark)
+
 ---
 
 ## 📫 Connect with Me  
