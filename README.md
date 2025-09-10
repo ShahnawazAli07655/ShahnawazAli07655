@@ -32,7 +32,6 @@
 [![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-FF4500?style=for-the-badge&logo=scipy&logoColor=white)](https://en.wikipedia.org/wiki/Scientific_computing)  
 [![Astrophysics](https://img.shields.io/badge/Astrophysics-800080?style=for-the-badge&logo=starship&logoColor=white)](https://en.wikipedia.org/wiki/Astrophysics)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShahNawazAli07655&theme=react-dark)
 
 ---
 
@@ -42,7 +41,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahNawazAli07655&layout=compact&theme=tokyonight)](https://github.com/ShahNawazAli07655)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahNawazAli07655&theme=tokyonight)](https://git.io/streak-stats)  
 
-
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ShahNawazAli07655&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_title=true&hide_border=true)
 ---
 
 ## 📫 Connect with Me  
