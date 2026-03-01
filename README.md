@@ -2,6 +2,28 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShahNawazAli07655&label=Profile%20Views&color=blue&style=for-the-badge)
 
+🎓 **Assistant Professor of Physics, Goalpara College**  
+🔭 An aspiring astronomer with a deep interest in **Computational Physics**, scientific programming, and numerical modeling.
+
+---
+
+## 👨‍🏫 Professional Role  
+- 🏛️ Assistant Professor, Department of Physics  
+- 📍 Goalpara College  
+- 📚 Teaching Classical Mechanics, Electromagnetic Theory, Mathematical Physics & Computational Physics  
+- 🧠 Research Interest: Numerical Methods & Scientific Computing  
+
+
+
+## 🔬 Research Interests  
+
+- Computational Physics  
+- Numerical Solutions of ODEs & PDEs  
+- Finite Difference & Spectral Methods
+- Scientific Computing for Astrophysics  
+- Mathematical Physics
+
+
 🎓 An aspiring astronomer with a deep interest in **Computational Physics**, scientific programming, and problem-solving through numerical methods.  
 
 ---
@@ -10,6 +32,8 @@
 - 💡 Exploring the intersection of **Physics, Mathematics, and Computer Science**  
 - 📊 Interested in modeling, simulation, and visualization of physical systems  
 - 🌱 Constantly learning and applying new tools in **computational physics**  
+
+I am particularly interested in bridging **analytical physics with computational implementation**.
 
 ---
 
