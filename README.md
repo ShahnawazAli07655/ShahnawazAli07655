@@ -2,8 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShahNawazAli07655&label=Profile%20Views&color=blue&style=for-the-badge)
 
-🎓 **Assistant Professor of Physics, Goalpara College**  
-🔭 An aspiring astronomer with a deep interest in **Computational Physics**, scientific programming, and numerical modeling.
+🎓 **Assistant Professor,
+Department of Physics,
+Goalpara College**  
+
 
 ---
 
